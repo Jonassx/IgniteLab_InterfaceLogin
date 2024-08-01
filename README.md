@@ -8,7 +8,7 @@
 
 ### Janelas desenvolvidas
 
-[Tela de Login ](https://github.com/user-attachments/assets/825bc784-b1d6-4b28-b663-8b5425ae0f36)
+[Tela de Login ](https://github.com/user-attachments/assets/2619eae7-ecec-4982-8f4a-92766e0521a0)
 
 [Tela de Recuperação de senha ](https://github.com/user-attachments/assets/9cdc314e-bdba-42e5-ba17-04cc2bceb286)
 
