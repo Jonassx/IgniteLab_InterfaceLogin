@@ -3,8 +3,6 @@
 ![GitHub repo size](https://img.shields.io/github/repo-size/jonassx/README-template?style=for-the-badge)
 ![GitHub language count](https://img.shields.io/github/languages/count/jonassx/README-template?style=for-the-badge)
 ![GitHub forks](https://img.shields.io/github/forks/jonassx/README-template?style=for-the-badge)
-![Bitbucket open issues](https://img.shields.io/bitbucket/issues/jonassx/README-template?style=for-the-badge)
-![Bitbucket open pull requests](https://img.shields.io/bitbucket/pr-raw/jonassx/README-template?style=for-the-badge)
 
 > Projeto desenvolvido para aplicar na prática os conhecimento de UI utilizando a linguagem Python e a bilbioteca Customtkinter.
 
