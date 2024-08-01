@@ -6,9 +6,15 @@
 ![Bitbucket open issues](https://img.shields.io/bitbucket/issues/jonassx/README-template?style=for-the-badge)
 ![Bitbucket open pull requests](https://img.shields.io/bitbucket/pr-raw/jonassx/README-template?style=for-the-badge)
 
-
-
 > Projeto desenvolvido para aplicar na prática os conhecimento de UI utilizando a linguagem Python e a bilbioteca Customtkinter.
+
+### Janelas desenvolvidas
+
+[Tela de Login ](https://github.com/user-attachments/assets/825bc784-b1d6-4b28-b663-8b5425ae0f36)
+
+[Tela de Recuperação de senha ](https://github.com/user-attachments/assets/9cdc314e-bdba-42e5-ba17-04cc2bceb286)
+
+[Tela de Cadastro ](https://github.com/user-attachments/assets/79405875-27b7-4d18-b244-1e9b850e2c2c)
 
 ### Ajustes e melhorias
 
@@ -55,7 +61,7 @@ python login_screen.py
 
 ## 🤝 Colaboradores
 
-Agradecemos às seguintes pessoas que contribuíram para este projeto:
+Pessoas que contribuíram para este projeto:
 
 <table>
   <tr>
