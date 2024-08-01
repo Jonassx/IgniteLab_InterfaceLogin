@@ -64,7 +64,7 @@ class InterfaceLogin():
         entry_password.place(x=530, y=510)
 
         # Save passoword
-        self.checkbox_save_passowrd = ctk.CTkCheckBox(self.root, text="", width=0, height=0, corner_radius=4, border_width=0, border_color=label_color, fg_color=entry_color, hover=None)
+        self.checkbox_save_passowrd = ctk.CTkCheckBox(self.root, text="", width=0, height=0, corner_radius=4, border_width=1, border_color=label_color, fg_color=entry_color, hover=None)
         self.checkbox_save_passowrd.place(x=530, y=570)
 
         self.label_save_password = ctk.CTkLabel(self.root,text="Lembrar senha por 30 dias", text_color=label_color, width=0, height=0)
