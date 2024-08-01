@@ -6,6 +6,11 @@
 
 > Projeto desenvolvido para aplicar na prática os conhecimento de UI utilizando a linguagem Python e a bilbioteca Customtkinter.
 
+### Layout inicial
+
+![Group 4](https://github.com/user-attachments/assets/cb901c36-4be6-4de2-bbdc-70ef2ddbd086)
+
+
 ### Janelas desenvolvidas
 
 [Tela de Login ](https://github.com/user-attachments/assets/2619eae7-ecec-4982-8f4a-92766e0521a0)
