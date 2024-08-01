@@ -27,7 +27,7 @@ O projeto ainda está em desenvolvimento e as próximas atualizações serão vo
 - [x] Desenvolver a tela de recupração de senha
 - [x] Desenvolver a tela de cadastro de usuários
 - [ ] Criar validações internas dos inputs
-- [ ] Exibir mensagens durante as validações
+- [ ] Exibir mensagens de tratamento
 
 ## 💻 Pré-requisitos
 
@@ -35,7 +35,7 @@ Antes de começar, verifique se você atendeu aos seguintes requisitos:
 
 - Versão 3.11 do Python;
 - Instalar a biblioteca customtkinter;
-- Sistemas operacionais que são compatíveis: Windows e MacOS / Ainda não testei em Distribuições Linux.
+- Sistemas operacionais que são compatíveis: Windows e MacOS / Não testado em distribuições Linux.
 - Links de apoio que serviram para desenvolver o projeto: [CustomTkinter]([(https://customtkinter.tomschimansky.com/)]) e [Projeto Figma da NLW Ignite Lab - Rocketseat]([https://www.figma.com/design/t1F9HlpBHgeLXp10fW9Xhj/Ignite-Lab-Designer-System?node-id=0-1&t=L6fvEQG2G5knReFr-1]).
 
 ## 🚀 Instalando a Biblioteca CustomTkinter
