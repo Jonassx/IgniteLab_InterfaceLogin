@@ -12,7 +12,7 @@ class InterfaceCreateAccount():
         btn_color= "#81D8F7"
 
         self.root = ctk.CTk()
-        self.root.title('Ignite Lab - Login')
+        self.root.title('Ignite Lab - Criar conta')
         self.root_widht = 1440
         self.root_height = 900
         self.root.resizable(False, False)
@@ -42,8 +42,8 @@ class InterfaceCreateAccount():
         title_ignite.place(x=650, y=280)
 
         # SubTitle
-        label_start_use = ctk.CTkLabel(self.root, text="Crie sua conta e participe!", font=("Roboto", 18), text_color=label_color)
-        label_start_use.place(x=620, y=340)
+        label_description = ctk.CTkLabel(self.root, text="Crie sua conta e participe!", font=("Roboto", 18), text_color=label_color)
+        label_description.place(x=620, y=340)
 
         # Entry Address Email
         label_address_email = ctk.CTkLabel(self.root, text="Endereço de e-mail", font=("Roboto", 14, "bold"))
@@ -63,19 +63,19 @@ class InterfaceCreateAccount():
         entry_confirm_password.place(x=530, y=560)
 
         # Button Singup
-        button_login = ctk.CTkButton(self.root, text="Cadastrar", font=("Inter", 16, "bold"),text_color="black",width=400, height=49, corner_radius=4, border_width=0, border_color=label_color, fg_color=btn_color, hover_color="#9BE1FE")
-        button_login.configure(cursor="hand2")
-        button_login.place(x=530, y=630)
+        button_signup = ctk.CTkButton(self.root, text="Cadastrar", font=("Inter", 16, "bold"),text_color="black",width=400, height=49, corner_radius=4, border_width=0, border_color=label_color, fg_color=btn_color, hover_color="#9BE1FE")
+        button_signup.configure(cursor="hand2")
+        button_signup.place(x=530, y=630)
 
 
         #Label Create account
-        self.label_create_account = ctk.CTkLabel(self.root, text="Já possui conta?", text_color=label_color)
-        self.label_create_account.place(x=640, y=700)
+        self.label_have_account = ctk.CTkLabel(self.root, text="Já possui conta?", text_color=label_color)
+        self.label_have_account.place(x=640, y=700)
 
         #Link Create account
-        self.link_create_account = ctk.CTkButton(self.root, text="Faça login", text_color=label_color, hover=None, fg_color="transparent", width=0, height=0, command=login_page)
-        self.link_create_account.configure(cursor="hand2")
-        self.link_create_account.place(x=740, y=703)
+        self.link_login_page = ctk.CTkButton(self.root, text="Faça login", text_color=label_color, hover=None, fg_color="transparent", width=0, height=0, command=login_page)
+        self.link_login_page.configure(cursor="hand2")
+        self.link_login_page.place(x=740, y=703)
 
 
     def run(self):

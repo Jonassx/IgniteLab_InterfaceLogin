@@ -30,6 +30,11 @@ class InterfaceLogin():
             from create_account_screen import InterfaceCreateAccount
             InterfaceCreateAccount().run()
 
+        def forgot_password_page():
+            self.root.destroy()
+            from forgot_password_screen import InterfaceForgotPassword
+            InterfaceForgotPassword().run()
+
         # Image Ignite
         img_ignite = ctk.CTkImage(Image.open("./images/ignite_logo.png"), size=(110, 90))
 
@@ -41,8 +46,8 @@ class InterfaceLogin():
         title_ignite.place(x=650, y=280)
 
         # SubTitle
-        label_start_use = ctk.CTkLabel(self.root, text="Faça login e comece a usar", font=("Roboto", 18), text_color=label_color)
-        label_start_use.place(x=620, y=340)
+        label_description = ctk.CTkLabel(self.root, text="Faça login e comece a usar", font=("Roboto", 18), text_color=label_color)
+        label_description.place(x=620, y=340)
 
         # Entry Address Email
         label_address_email = ctk.CTkLabel(self.root, text="Endereço de e-mail", font=("Roboto", 14, "bold"))
@@ -71,7 +76,7 @@ class InterfaceLogin():
         button_login.place(x=530, y=614)
 
         #Forgot password
-        self.label_forgot_password = ctk.CTkButton(self.root, text="Esqueceu a sua senha?", text_color=label_color, hover=None, fg_color="transparent")
+        self.label_forgot_password = ctk.CTkButton(self.root, text="Esqueceu a sua senha?", text_color=label_color, hover=None, fg_color="transparent", command=forgot_password_page)
         self.label_forgot_password.configure(cursor="hand2")
         self.label_forgot_password.place(x=652, y=690)
 
