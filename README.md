@@ -6,12 +6,15 @@
 
 > Projeto desenvolvido para aplicar na prática os conhecimento de UI utilizando a linguagem Python e a bilbioteca Customtkinter.
 
-### Layout inicial
+### Tela de Login
 
 ![Group 4](https://github.com/user-attachments/assets/cb901c36-4be6-4de2-bbdc-70ef2ddbd086)
-![Group 5](https://github.com/user-attachments/assets/9cdc314e-bdba-42e5-ba17-04cc2bceb286)
-![Group 5](https://github.com/user-attachments/assets/79405875-27b7-4d18-b244-1e9b850e2c2c)
 
+### Tela de Recuperação de Senha
+![Group 5](https://github.com/user-attachments/assets/9cdc314e-bdba-42e5-ba17-04cc2bceb286)
+
+### Tela de Cadastro
+![Group 5](https://github.com/user-attachments/assets/79405875-27b7-4d18-b244-1e9b850e2c2c)
 
 ### Janelas desenvolvidas
 
