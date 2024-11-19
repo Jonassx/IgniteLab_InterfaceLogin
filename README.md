@@ -1,4 +1,4 @@
-# Projeto - Tela de login Ignite Lab
+# Projeto - Tela de login Ignite Lab - Customtkinter
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/jonassx/README-template?style=for-the-badge)
 ![GitHub language count](https://img.shields.io/github/languages/count/jonassx/README-template?style=for-the-badge)
